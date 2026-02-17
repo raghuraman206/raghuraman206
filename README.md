@@ -19,5 +19,5 @@
 - Job Portal Frontend UI
 
 ## 📫 Contact Me
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: [https://www.linkedin.com/in/raghu-raman-v-b11556293/]
+- Email: raghuraman.v.2023.mech@ritchennai.edu.in
